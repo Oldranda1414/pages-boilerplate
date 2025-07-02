@@ -1,0 +1,20 @@
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
+
+author: 
+  name: YOUR_NAME
+  email: "YOUR@MAIL.com"
+
+
+minima:
+  social_links:
+    - title: YOUR_PROJECT_NAME repo on github
+      icon: github
+      url: "https://github.com/YOUR_USERNAME/YOUR_PROJECTNAME"
+  skin: auto
+  hide_site_feed_link: true
+  nav_pages:
+    - home.md
+    - about.md
