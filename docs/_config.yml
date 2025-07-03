@@ -16,5 +16,5 @@ minima:
   skin: auto
   hide_site_feed_link: true
   nav_pages:
-    - home.md
+    - index.md
     - about.md
