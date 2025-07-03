@@ -4,6 +4,8 @@ A minimal and opinionated GitHub Pages template for project documentation or rep
 
 Use this repo as a starting point to quickly set up a beautiful, static documentation site powered by GitHub Pages.
 
+Visit the [pages-boilerplate example](https://oldranda1414.github.io/pages-boilerplate/) to get a test for what this template provides!
+
 ## ✨ Opinionated Defaults
 
 This template comes with the following pre-configured:
